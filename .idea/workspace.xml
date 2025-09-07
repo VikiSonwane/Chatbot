@@ -43,6 +43,11 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Vicky/Desktop/ChatBot&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vicky\Desktop\ChatBot" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ChatBot" />
